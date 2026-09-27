@@ -8,9 +8,9 @@ The programs demonstrate the use of Object-Oriented Programming concepts such as
 
 | Details              | Information                          |
 | -------------------- | ------------------------------------ |
-| **Student Name**     | Abhishek Sapkale                     |
-| **Roll no.**             | AD2152                              |
-| **PRN**              | 125UAD1349                     |
+| **Student Name**     | Ritesh Sabale                     |
+| **Roll no.**             | AD2149                              |
+| **PRN**              | 125UAD1287                     |
 | **Class / Division** | SY B.Tech AI & DS – Div A            |
 | **Course Name**      | Object Oriented Programming with C++ |
 | **Unit**             | Unit I, II, III                              |
